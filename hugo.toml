@@ -25,6 +25,12 @@ since = 2024
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
 # Right To Left, shift content direction for languagues such as Arabic
 rtl = false
+faviconSVG = "/images/favicon.ico"
+favicon_16 = "/images/favicon-16x16.png"
+favicon_32 = "images/favicon-32x32.png"
+touchIcon = "images/apple-touch-icon.png"
+math = true
+katex = true
 # Specify light/dark colorscheme
 # Supported values:
 # "auto" (use preference set by browser)
