@@ -1,0 +1,1 @@
+[![Deploy Hugo site to Pages](https://github.com/lawal-hash/myportfolio/actions/workflows/hugo.yml/badge.svg?branch=master)](https://github.com/lawal-hash/myportfolio/actions/workflows/hugo.yml)
